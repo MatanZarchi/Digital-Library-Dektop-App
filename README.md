@@ -93,7 +93,7 @@
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
+* [![Next][[Next.js](https://www.jetbrains.com/idea/)]][Next-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
