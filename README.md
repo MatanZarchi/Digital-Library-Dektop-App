@@ -6,8 +6,11 @@
 
 ***
 
--**This app will let you manage your own library. You can add, search and clean books fron the lib**
--**This app works with client server**
+- **This app will let you manage your own library.**
+
+- **You can add, search and clean books fron the lib**
+
+- **This app works with client server**
 
 
 ## ❗ Usage & Features
