@@ -22,7 +22,7 @@
 
 ## 📌 Pics
 
-<img src="https://github.com/user-attachments/assets/6ca67140-4869-470f-85cf-4b09fe59bd7e" alt="image" width="300" height="auto">
+<img src="https://github.com/user-attachments/assets/6ca67140-4869-470f-85cf-4b09fe59bd7e" alt="image" width="300" height="auto" align="center">
 
 
 Insert some books :
