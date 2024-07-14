@@ -10,7 +10,7 @@
 
 
 
-## ℹ️ Usage & Features
+## ❗ Usage & Features
 # Add a new book
 **ISBN:** Insert book's ISBN so the app will save it in library.
 
