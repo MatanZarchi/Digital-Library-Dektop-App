@@ -26,8 +26,8 @@
 
 
 Insert some books :
-
-<p align="center">![2](https://github.com/user-attachments/assets/f663bdc0-f74f-40d1-840a-02a0144e610f)</p>
+![2](https://github.com/user-attachments/assets/f663bdc0-f74f-40d1-840a-02a0144e610f)
+<p align="center"></p>
 
 
 ## Getting Started
