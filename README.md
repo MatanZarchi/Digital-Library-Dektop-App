@@ -1,4 +1,4 @@
-<h1 align="center">Hello everyone 🙋‍♂️, I'm Matan Zarchi, this is my:</h1>
+<h1 align="center">Hello everyone 🙋‍♂️, this is my:</h1>
 
 ***
 
@@ -6,11 +6,13 @@
 
 ***
 
-- **This app will let you manage your own library.**
 
-- **You can add, search and clean books fron the lib**
+- **This app will let you manage your own library**
 
-- **This app works with client server**
+- **You can add, search and clean books fron the library**
+
+- **This app works with a client server**
+
 
 
 ## ❗ Usage & Features
