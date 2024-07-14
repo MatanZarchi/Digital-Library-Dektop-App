@@ -15,7 +15,7 @@
 
 - **This app works with a client server**
 
-- **Watch my video**
+- **Watch my video**📺
 
 ## ❗Usage
 
