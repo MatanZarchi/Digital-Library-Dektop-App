@@ -19,6 +19,9 @@
 # Search by ISBN
 **ISBN:** Put ISBN in the search box. If book does not exist or do exist will send Appropriate message. 
 
+# Add a new book
+**1):** You can delete books from the lib by insert ISBN and press "Get Book By ISBN". 
+**2):** You can delete all books from the lib by pressing "Get All Books". 
 
 ## 📌 Pics
 
