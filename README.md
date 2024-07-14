@@ -9,7 +9,6 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
       <ul>
       </ul>
     </li>
@@ -23,8 +22,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
+![dektop app img1](https://github.com/user-attachments/assets/2bfc062a-d59b-41be-b49d-020623ff82bc)
 
 
 <p align="right">(<a href="#readme-top">Top</a>)</p>
