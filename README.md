@@ -42,8 +42,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/Ma
 
 <p align="right">(<a href="#readme-top">Top</a>)</p>
 
-
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
