@@ -7,13 +7,15 @@
 ***
 
 
-## ❗ Usage & Features
+## ⚒️ Features
 
 - **This app will let you manage your own library**
 
 - **You can add, search and clean books fron the library**
 
 - **This app works with a client server**
+
+  ## ❗ Usage
 
 # Add a new book
 **ISBN:** Insert book's ISBN so the app will save it in library.
