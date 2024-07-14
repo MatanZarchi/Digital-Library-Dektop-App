@@ -93,14 +93,9 @@
 
 ### Built With
 
-* [![Next][[Next.js](https://www.jetbrains.com/idea/)]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+
+* [Java - Intellij](https://www.jetbrains.com/idea/)
+* [JavaFx - Intellij](https://www.jetbrains.com/help/idea/javafx.html#check-plugin)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
