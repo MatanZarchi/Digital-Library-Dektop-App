@@ -1,4 +1,4 @@
-![Java-Dark](https://github.com/user-attachments/assets/1cae0cad-779b-4ac7-b0a8-a563682efa85)![image](https://github.com/user-attachments/assets/fab19c74-ed69-49fe-a7f1-781342e22df2)<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
