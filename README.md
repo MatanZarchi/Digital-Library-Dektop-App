@@ -15,7 +15,7 @@
 
 - **This app works with a client server**
 
-  ## ❗ Usage
+## ❗Usage
 
 # Add a new book
 **ISBN:** Insert book's ISBN so the app will save it in library.
