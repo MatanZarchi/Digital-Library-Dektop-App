@@ -15,6 +15,8 @@
 
 - **This app works with a client server**
 
+- **Watch my video**
+
 ## ❗Usage
 
 # Add a new book
