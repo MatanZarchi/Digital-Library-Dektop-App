@@ -4,14 +4,13 @@
 
 ***
 
-***
 
-<p align="center">Hi 🙋‍♂️, I'm Matan Zarchi</p>
+
+<h1 align="center">Hi 🙋‍♂️, I'm Matan Zarchi</h1>
 <p align="center">This is my java project💻, hope you will enjoy🙌</p>
 <p align="center">This app will let you manage ypur own library. You can add, search and clean books fron the lib**</p>
 <p align="center">This app works with client server.</p>
 
-***
 
 ## ❗ Usage & Features
 # Add a new book
