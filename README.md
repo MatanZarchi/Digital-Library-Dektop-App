@@ -1,1 +1,3 @@
-![dektop app img1](https://github.com/MatanZarchi/Digital-Library-Dektop-App/assets/93542406/5c2cdf7f-393e-4a2b-a294-b1a85e4f30f0)
+
+![dektop app img1](https://github.com/user-attachments/assets/2277985a-6af1-4819-8b7e-9479bdbca009)
+![dektop app img 2](https://github.com/user-attachments/assets/f7ff109b-9ed2-46f4-b94a-1dc98e66a3c8)
