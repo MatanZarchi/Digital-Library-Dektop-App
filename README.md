@@ -5,8 +5,8 @@
 ***
 
 
-<p align="center">This app will let you manage ypur own library.</p>
-<p align="center">You can add, search and clean books fron the lib.</p>
+<p align="center">This app will let you manage ypur own library. You can add, search and clean books fron the lib</p>
+<p align="center">This app works with client server.</p>
 
 
 
