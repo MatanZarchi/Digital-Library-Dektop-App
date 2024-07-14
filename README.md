@@ -26,12 +26,12 @@
 
 **2):** You can delete all books from the lib by pressing "Get All Books". 
 
-## 📌 📷 Pics
+## 📌 Pics
 
 <img src="https://github.com/user-attachments/assets/6ca67140-4869-470f-85cf-4b09fe59bd7e" alt="image" width="600" height="auto">
 
 
-Insert some books :
+**Insert some books :**
 
 <img src="https://github.com/user-attachments/assets/f663bdc0-f74f-40d1-840a-02a0144e610f" alt="image" width="600" height="auto">
 
