@@ -1,15 +1,13 @@
+<h1 align="center">Hello everyone 🙋‍♂️, I'm Matan Zarchi, this is my:</h1>
+
 ***
 
 <h1 align="center">Digital Library Desktop Application by Java & JavaFx</h1>
 
 ***
 
-
-
-<h1 align="center">Hi 🙋‍♂️, I'm Matan Zarchi</h1>
-<h1 This is my java project💻, hope you will enjoy 🙌</h1>
-This app will let you manage ypur own library. You can add, search and clean books fron the lib**
-This app works with client server
+-**This app will let you manage your own library. You can add, search and clean books fron the lib**
+-**This app works with client server**
 
 
 ## ❗ Usage & Features
