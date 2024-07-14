@@ -13,7 +13,9 @@
 ## ℹ️ Usage & Features
 # Add a new book
 **ISBN:** Insert book's ISBN so the app will save it in library.
+
 **Author:** Insert book's author so the app will save it in library.
+
 **Title:** Insert book's title (name) so the app will save it in library.
 
 # Search by ISBN
@@ -21,6 +23,7 @@
 
 # Add a new book
 **1):** You can delete books from the lib by insert ISBN and press "Get Book By ISBN". 
+
 **2):** You can delete all books from the lib by pressing "Get All Books". 
 
 ## 📌 Pics
@@ -31,7 +34,6 @@
 Insert some books :
 
 <img src="https://github.com/user-attachments/assets/f663bdc0-f74f-40d1-840a-02a0144e610f" alt="image" width="600" height="auto">
-
 
 
 
@@ -50,5 +52,5 @@ To build and run the app locally, follow these steps:
 
 ## Acknowledgments
 
-✉️ [matanelf2@gmail.com](url)  
-💿 https://github.com/MatanZarchi 
+✉️ **Mail:** [matanelf2@gmail.com](url)  
+💿 **Git:** https://github.com/MatanZarchi 
