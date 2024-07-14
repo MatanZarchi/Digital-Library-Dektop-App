@@ -22,12 +22,13 @@
 
 ## 📌 Pics
 
-<p align="center">![1](https://github.com/user-attachments/assets/6ca67140-4869-470f-85cf-4b09fe59bd7e)</p>
+<img src="https://github.com/user-attachments/assets/6ca67140-4869-470f-85cf-4b09fe59bd7e" alt="image" width="300" height="auto">
 
 
 Insert some books :
+
 ![2](https://github.com/user-attachments/assets/f663bdc0-f74f-40d1-840a-02a0144e610f)
-<p align="center"></p>
+
 
 
 ## Getting Started
