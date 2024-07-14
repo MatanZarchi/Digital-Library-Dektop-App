@@ -4,10 +4,10 @@
 
 ***
 
-<p align="center">## Hi 🙋‍♂️, I'm Matan Zarchi</p>
-<p align="center">## This is my java project💻, hope you will enjoy🙌 </p>
-<p align="center">## This app will let you manage ypur own library. You can add, search and clean books fron the lib</p>
-<p align="center">## This app works with client server.</p>
+<p align="center">**Hi 🙋‍♂️, I'm Matan Zarchi**</p>
+<p align="center">**This is my java project💻, hope you will enjoy🙌**</p>
+<p align="center">**This app will let you manage ypur own library. You can add, search and clean books fron the lib**</p>
+<p align="center">**This app works with client server.**</p>
 
 
 
