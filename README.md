@@ -26,7 +26,7 @@
 
 **2):** You can delete all books from the lib by pressing "Get All Books". 
 
-## 📌 Pics
+## 📌 📷 Pics
 
 <img src="https://github.com/user-attachments/assets/6ca67140-4869-470f-85cf-4b09fe59bd7e" alt="image" width="600" height="auto">
 
@@ -52,5 +52,5 @@ To build and run the app locally, follow these steps:
 
 ## Acknowledgments
 
-✉️ **Mail:** [matanelf2@gmail.com](url)  
-💿 **Git:** https://github.com/MatanZarchi 
+📧 **Mail:** [matanelf2@gmail.com](url)  
+👨‍💻**Git:** https://github.com/MatanZarchi 
