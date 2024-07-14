@@ -1,4 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+![image](https://github.com/user-attachments/assets/fab19c74-ed69-49fe-a7f1-781342e22df2)<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -87,17 +87,18 @@
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Top</a>)</p>
 
 
 
 ### Built With
 
 
-* [Java - Intellij](https://www.jetbrains.com/idea/)
+* [![![image](https://github.com/user-attachments/assets/64a4649c-c650-414d-a8ac-5c3a46cb069f)
+][Java - Intellij]][(https://www.jetbrains.com/idea/)]
 * [JavaFx - Intellij](https://www.jetbrains.com/help/idea/javafx.html#check-plugin)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Top</a>)</p>
 
 
 <!-- CONTACT -->
@@ -107,14 +108,14 @@ My Mail: matanelf2@gmail.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/MatanZarchi/Digital-Library-Dektop-App)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Top</a>)</p>
 
 
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+I've included a few of my favorites to kick things off!
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
@@ -125,7 +126,7 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Top</a>)</p>
 
 
 
