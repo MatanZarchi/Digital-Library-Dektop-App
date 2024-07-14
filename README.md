@@ -36,9 +36,9 @@ Insert some books :
 
 To build and run the app locally, follow these steps:
 
-1. **Clone the repository:** `git clone https://github.com/StasBratanich/AndroidCalculator.git`
-2. **Open the project in Android Studio.**
-3. **Build and run the app on an Android emulator or physical device.**
+1. **Clone the repository:** `git clone https://github.com/MatanZarchi/Digital-Library-Dektop-App.git`
+2. **Open the project in intellij idea.**
+3. **Build and run the app.**
 
 ## With
 
