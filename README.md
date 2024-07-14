@@ -95,7 +95,7 @@
 
 
 
-* [Java - Intellij]][(https://www.jetbrains.com/idea/)]
+* [Java - Intellij](https://www.jetbrains.com/idea/)
 * [JavaFx - Intellij](https://www.jetbrains.com/help/idea/javafx.html#check-plugin)
 
 <p align="right">(<a href="#readme-top">Top</a>)</p>
