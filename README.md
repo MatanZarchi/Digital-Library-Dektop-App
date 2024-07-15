@@ -1,8 +1,6 @@
-<h1 align="center">Hello everyone 🙋‍♂️, this is my:</h1>
-
 ***
 
-<h1 align="center"> Digital Library Desktop Application by Java & JavaFx </h1>
+<h1 align="center"> Digital Library Desktop Application📚📖 </h1>
 
 ***
 
