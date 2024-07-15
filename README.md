@@ -20,6 +20,7 @@
 ## ❗Usage
 
 # Add a new book
+
 **ISBN:** Insert book's ISBN so the app will save it in library.
 
 **Author:** Insert book's author so the app will save it in library.
@@ -27,9 +28,11 @@
 **Title:** Insert book's title (name) so the app will save it in library.
 
 # Search by ISBN
+
 **ISBN:** Put ISBN in the search box. If book does not exist or do exist will send Appropriate message. 
 
-# Add a new book
+# Deleting book/s
+
 **1):** You can delete books from the lib by insert ISBN and press "Get Book By ISBN". 
 
 **2):** You can delete all books from the lib by pressing "Get All Books". 
